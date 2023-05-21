@@ -1,5 +1,15 @@
 # 💫 About Me:
-Fullstack PHP developer at [Elegant Themes](https://www.elegantthemes.com/about/). Worked on ongoing product to add Livewire & Laravel PHPUnit tests, Cypress tests, Built new functionalities, fixed bugs, etc. using TALL stack. Now, I am currently working on a new product which built from scratch. Developed basic architecture of product, developed normalized database, futuarastic coding structure, PHPUnit/Livwire/Cypress tests, Perfromance enhancement, etc.
+Fullstack PHP Developer at [Elegant Themes](https://www.elegantthemes.com/about/) with experience in building and enhancing web applications.
+
+- Contributed to an ongoing product by integrating Livewire and Laravel PHPUnit tests, Cypress tests, and implementing new functionalities.
+- Proficient in the Laravel, WordPress, VueJS, TALL (Tailwind CSS, Alpine.js, Laravel, Livewire) stack.
+- Currently involved in developing a new product from scratch.
+- Designed the basic architecture, developed a normalized database, and implemented a futuristic coding structure.
+- Ensured code quality through comprehensive PHP-CS-Fixer, LaravelPint, LaraStan
+- Build & Refactor confidentally with PHPUnit, Livewire, and Cypress tests.
+- Focused on performance enhancements to deliver optimized user experiences.
+
+Passionate about creating innovative solutions and continuously improving development practices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayanksgajjar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksdudakiya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4670639) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mayanksdudakiya) 
@@ -19,9 +29,6 @@ Fullstack PHP developer at [Elegant Themes](https://www.elegantthemes.com/about/
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mayanksdudakiya&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mayanksdudakiya&icon=0&color=0)](https://visitcount.itsvg.in)
